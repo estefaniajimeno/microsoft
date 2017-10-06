@@ -1,0 +1,41 @@
+/*Hola soy comentario*/
+body{
+	text-align: center;
+	font-family:'Pacifico';
+}
+   /* para que sepan que cuadrado color es una clase se coloca un punto.*/
+.cuadrado-color{
+    /* background-color: yellow; color en inglés
+      backcground.color:#0040FF; color hexadecimal
+      backgroud-color:rgb(86,102,161) colores rgb */
+
+	background-color: lightpink;
+	padding-bottom: 20px; /*dar espacio*/
+}
+
+p{
+	color: black;
+}
+
+h1{
+	font-family:'Pacifico';
+}
+
+p{
+	font-family:'Great Vibes';
+}
+
+/*img{
+	width:400px;/*ancho de imagen*/
+	/*height: 400px; alto de imagen
+ 
+	*/
+.foto-grupo{
+	width:500px;
+	height: 300px; 
+}
+
+/*hacer el separador*/
+.enlaces{
+	border-top: 2px double lightpink ;
+}
